@@ -10,7 +10,7 @@ Thanks for checking out my portfolio of data science projects. Below you'll find
 
 * React
   * [Jammming](https://github.com/leighwest/Jammming): A React.js web application which utilises the Spotify developer API and enables users to search for songs and create and save playlists which are available in their Spotify account.
-  * [Cocktails](https://github.com/leighwest/SQL-Querying-Demo/blob/master/Cocktails): A React.js web application which utilises [The CocktailDB](https://www.thecocktaildb.com/api.php) developer API and enables users to search for cocktails and view their recipe. You can view a live version of the app [here](https://leigh-west-cocktails.web.app/). I've also produced a short summary video highlighting the user and technical details available [here](https://vimeo.com/508677668).
+  * [Cocktails](https://github.com/leighwest/Cocktails): A React.js web application which utilises [The CocktailDB](https://www.thecocktaildb.com/api.php) developer API and enables users to search for cocktails and view their recipe. You can view a live version of the app [here](https://leigh-west-cocktails.web.app/). I've also produced a short summary video highlighting the user and technical details available [here](https://vimeo.com/508677668).
 
 * HTML/CSS/Javascript
   * [Personal Website](https://github.com/leighwest/Personal-Website): A personal website hosted at [leighwest.dev](https://www.leighwest.dev) which I created to summarise my skills and showcase some of the projects I have created.
