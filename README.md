@@ -1,5 +1,5 @@
 # Software Development Projects
-Thanks for checking out my portfolio of data science projects. Below you'll find summaries and links to the repositories of some of the various projects I've completed using Java, Python, React, SQL and HTML/CSS/Javascript. 
+Thanks for checking out my portfolio of software development projects. Below you'll find summaries and links to the repositories of some of the various projects I've completed using Java, Python, React, SQL and HTML/CSS/Javascript. 
 
 ## Contents
 * Python
